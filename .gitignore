@@ -2,3 +2,8 @@
 .DS_Store
 build/
 logs/
+
+# idea
+*.iml
+*.ipr
+*.iws
